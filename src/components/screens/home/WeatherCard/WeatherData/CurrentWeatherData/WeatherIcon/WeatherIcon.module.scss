@@ -1,0 +1,11 @@
+.weatherIcon {
+	flex: 1 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	img {
+		width: 85px;
+		height: 85px;
+	}
+}
